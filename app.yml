@@ -1,5 +1,8 @@
 app:
   fizz: 3
   buzz: 4
-endpoints.restart:
-  enabled: true
+endpoints:
+  restart:
+    enabled: true
+  refresh:
+    enabled: true
