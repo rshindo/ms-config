@@ -1,5 +1,5 @@
 app:
   fizz: 3
-  buzz: 5
+  buzz: 4
 endpoints.restart:
   enabled: true
